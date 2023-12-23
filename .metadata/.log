@@ -1,0 +1,350 @@
+!SESSION 2023-10-20 19:57:43.237 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Abdel\OneDrive\Documents\EmbeddedSystemsInDepth\Drivers
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-20 19:57:52.737
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-20 19:57:52.815
+!MESSAGE Log4j initialized with config file C:\Users\Abdel\OneDrive\Documents\EmbeddedSystemsInDepth\Drivers\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-20 19:57:56.039
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:25.478
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:26.083
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.0.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:26.850
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.0.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:27.683
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.0.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:28.238
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.1.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:29.136
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.2.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:29.715
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.2.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:30.549
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.3.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:31.283
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.3.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:32.197
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.4.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:33.072
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.4.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:33.628
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.4.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:34.586
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.5.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:35.243
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.5.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:36.102
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.6.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:36.962
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.6.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:37.565
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.7.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:39.024
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.8.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:39.822
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.9.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:40.501
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.10.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:41.350
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.10.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:42.195
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.11.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:43.304
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.11.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:43.974
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.12.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:44.872
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.12.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:45.754
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.13.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:46.501
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.13.1/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:47.331
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/updatesite1/1.13.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:48.105
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:49.030
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2019-03, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:51.689
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2019-09, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:53.954
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2020-06, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:56.334
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2021-03, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:57.054
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2021-03/eclipse, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:58:59.858
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2021-03/swtchart, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:00.297
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2021-12, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:01.404
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2021-12/releases, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:04.257
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2021-12/updates, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:05.659
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2021-12/swtchart, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:06.057
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2022-03, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:07.116
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2022-03/releases, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:10.078
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2022-03/updates, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:11.335
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2022-03/updates/4.23, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:12.106
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2022-03/updates/cdt-10.6.2, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:12.909
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2022-03/swtchart, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:13.533
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2023-03, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:14.700
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2023-03/releases, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:17.148
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2023-03/updates, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:17.775
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2023-03/updates/4.27, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:18.700
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2023-03/updates/cdt-11.1.1, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:19.553
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/eclipse/2023-03/swtchart, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:20.102
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:21.061
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:21.951
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.5.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:22.408
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.6.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:23.086
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.7.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:23.529
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.8.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:24.390
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.11.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:25.169
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.11.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:25.584
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.12.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:26.356
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/7-2018-q2-update/1.13.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:26.873
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:27.721
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.5.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:28.444
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.6.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:28.944
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.7.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:29.780
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.8.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:30.212
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.11.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:30.924
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.11.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:31.503
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.12.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:32.228
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/9-2020-q2-update/1.13.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:32.844
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/10.3-2021.10, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:33.523
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/10.3-2021.10/1.8.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:34.071
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/10.3-2021.10/1.9.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:34.724
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/10.3-2021.10/1.11.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:35.640
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/10.3-2021.10/1.11.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:36.098
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/10.3-2021.10/1.12.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:36.723
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/10.3-2021.10/1.13.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:37.506
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/11.3.rel1/, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:38.542
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/11.3.rel1/1.11.1.gcc11/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:38.966
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/11.3.rel1/1.11.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:39.348
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/11.3.rel1/1.12.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:40.165
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/11.3.rel1/1.13.0/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2023-10-20 19:59:41.025
+!MESSAGE Using unsafe http transport to retrieve http://sw-center.st.com/stm32cubeide/toolchains/11.3.rel1/1.13.2/content.xml.xz, see CVE-2021-41033. Consider using https instead.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2023-10-20 19:59:41.805
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient5.Activator.getHttpClientFactory(Activator.java:242)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient5.Activator.getBrowseHttpClient(Activator.java:267)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:283)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:231)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.getLocalFile(CompositeMetadataRepositoryFactory.java:77)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:100)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:787)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:685)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2023-10-20 19:59:41.821
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient5.Activator.getHttpClientFactory(Activator.java:242)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient5.Activator.getBrowseHttpClient(Activator.java:267)
+	at org.eclipse.ecf.provider.filetransfer.httpclient5.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.getLastModified(CacheManager.java:283)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:231)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:787)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:685)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SESSION 2023-12-07 21:07:09.352 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-07 21:07:33.863
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-07 21:07:33.976
+!MESSAGE Log4j initialized with config file C:\Users\Abdel\OneDrive\Documents\EmbeddedSystemsInDepth\STM32CUBE_IDE_Diploma_Workspace\Unit14_ARM_CORTEX(M3-M4)\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-07 21:07:39.948
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-12-13 15:36:41.349 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-12-13 15:36:53.899
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-12-13 15:36:53.977
+!MESSAGE Log4j initialized with config file C:\Users\Abdel\OneDrive\Documents\EmbeddedSystemsInDepth\STM32CUBE_IDE_Diploma_Workspace\Unit15_Create_Your_Own_RTOS\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-12-13 15:36:58.304
+!MESSAGE Started RMI Server, listening on port 41337
